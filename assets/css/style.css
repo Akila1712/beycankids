@@ -15161,7 +15161,7 @@ nav ul li a {
 }
 .banner-area-one .title-banner {
   color: var(--color-white);
-  font-size: 64px;
+  font-size: 61px;
   font-weight: 800;
   line-height: 70px;
   margin-top: 0;
@@ -17202,7 +17202,7 @@ nav ul li a {
   }
 }
 .rts-course-area .course-wrapper .wrapper-inner .content .title {
-  font-size: 24px;
+  font-size: 21px;
   color: var(--color-white);
 }
 @media (max-width: 1300px) and (min-width: 1140px) {
